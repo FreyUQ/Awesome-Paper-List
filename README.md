@@ -78,6 +78,8 @@
 + [**NeurIPS**] Adaptive Sampling Towards Fast Graph Representation Learning [[paper]](https://arxiv.org/abs/1809.05343) [[code_pytorch]](https://github.com/dmlc/dgl/tree/master/examples/pytorch/_deprecated/adaptive_sampling) [[code_tentsor_flow]](https://github.com/huangwb/AS-GCN)
 ### Year 2017
 + [**NeurIPS**] Inductive Representation Learning on Large Graphs [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/twjiang/graphSAGE-pytorch)
++ [**EMNLP**] DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [[paper]](https://aclanthology.org/D17-1060.pdf) [[code]](https://
+github.com/xwhan/DeepPath)
 
 ## Decentralized/Federated Recommendation
 
